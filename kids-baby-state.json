@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "detailCursor": 20,
+  "detailCursor": 30,
   "products": {
     "AEA7394P": {
       "productId": "AEA7394P",
@@ -5801,7 +5801,7 @@
     "AEA7468PS": {
       "productId": "AEA7468PS",
       "productName": "mouニットマフラー -ボックス付き-",
-      "isSoldOut": false,
+      "isSoldOut": true,
       "advanceAnnouncement": "",
       "variations": {
         "1": {
